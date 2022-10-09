@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "dosya.h": "c",
+        "oyun.h": "c",
+        "kisi.h": "c"
+    },
+    "C_Cpp.errorSquiggles": "Enabled"
+}
